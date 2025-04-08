@@ -1,1 +1,1 @@
-# CNN-for-CIFAR-10-Classification-Using-TensorFlow
+# Designing and Training a Convolutional Neural Network for CIFAR-10 Image Classification Using TensorFlow
